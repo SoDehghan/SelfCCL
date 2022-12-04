@@ -1,7 +1,7 @@
 ## SelfCCL:
 This repository contains the code, pre-trained models and training data for our paper.
 
-## SelfCCL chekpoints
+# SelfCCL chekpoints
 Our released models are listed as follows: 
 
 "SoDehghan/selfccl-bert-base-uncased"    
@@ -9,7 +9,7 @@ Our released models are listed as follows:
 
 
 
-## Download datasets
+# Download datasets
 Download training data for SupMPN from HuggingFace
 ```
 !wget https://huggingface.co/datasets/SoDehghan/datasets-for-supmpn/all_snli_mnli_for_supmpn.csv
