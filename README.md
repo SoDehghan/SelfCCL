@@ -10,11 +10,10 @@ Our released models are listed as follows:
 
 
 ## Download datasets
-Download training data for SupMPN from HuggingFace
+Download training data for SelfCCL from HuggingFace
 ```
-!wget https://huggingface.co/datasets/SoDehghan/datasets-for-supmpn/all_snli_mnli_for_supmpn.csv
+!wget 
 
-!wget https://huggingface.co/datasets/SoDehghan/datasets-for-supmpn/sub_snli_for_supmpn_8k.csv
 
 ```
 
