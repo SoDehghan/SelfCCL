@@ -1,4 +1,4 @@
-## SelfCCL:
+## SelfCCL: Curriculum Contrastive Learning by Transferring Self-taught Knowledge for Fine-Tuning BERT
 This repository contains the code, pre-trained models and training data for our paper.
 
 ## SelfCCL chekpoints
