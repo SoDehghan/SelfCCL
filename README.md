@@ -9,7 +9,7 @@ Our released models are listed as follows:
 
 
 
-# Download datasets
+## Download datasets
 Download training data for SupMPN from HuggingFace
 ```
 !wget https://huggingface.co/datasets/SoDehghan/datasets-for-supmpn/all_snli_mnli_for_supmpn.csv
@@ -20,6 +20,5 @@ Download training data for SupMPN from HuggingFace
 
 
 
-# Acknowledgements
-Loss function Codes are adapted from the repos of the EMNLP19 paper [Sentence-BERT: Sentence Embeddings using Siamese BERT-Networks](https://github.com/UKPLab/sentence-transformers)
-Our implementation are based on setup from the repo of the SimCSE paper [SimCSE: Simple Contrastive Learning of Sentence Embeddings] (https://github.com/princeton-nlp/SimCSE)
+## Acknowledgements
+
