@@ -1,7 +1,7 @@
 ## SelfCCL:
 This repository contains the code, pre-trained models and training data for our paper.
 
-# SelfCCL chekpoints
+## SelfCCL chekpoints
 Our released models are listed as follows: 
 
 "SoDehghan/selfccl-bert-base-uncased"    
