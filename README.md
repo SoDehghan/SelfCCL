@@ -1,7 +1,6 @@
-## SelfCCL: Curriculum Contrastive Learning by Transferring Self-taught Knowledge for Fine-Tuning BERT
-This repository contains the code, pre-trained models and training data for our paper.
+## This repository contains the code, pre-trained models and training data for our paper.
 
-## SelfCCL chekpoints
+## chekpoints
 Our released models are listed as follows: 
 
 "SoDehghan/selfccl-bert-base-uncased"    
@@ -10,7 +9,7 @@ Our released models are listed as follows:
 
 
 ## Download datasets
-Download training data for SelfCCL from HuggingFace
+Download training data for chekpoints from HuggingFace
 ```
 !wget 
 
