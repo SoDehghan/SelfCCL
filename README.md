@@ -5,9 +5,9 @@ Our released models are listed as follows:
 
 | Model name                             | Avg. On STS tasks | Avg. On Transfer Learning tasks |
 | -------------------------------------- | ----------------- | ------------------------------- |
-| SoDehghan/selfccl-bert-base-uncased    |       82.07       |                     86.96       |
-| SoDehghan/selfccl-sbert-base-uncased   |       83.15       |                     87.75       |
-| SoDehghan/sbert-nli-v2-contrastive     |       83.15       |                     87.75       |
+| SoDehghan/selfccl-bert-base-uncased    |       81.80       |              86.90              |
+| SoDehghan/selfccl-sbert-base-uncased   |       81.77       |              86.95              |
+| SoDehghan/sbert-nli-v2-contrastive     |       81.60       |              86.82              |
 
 
 ## Hardware requirements
@@ -15,8 +15,8 @@ Our released models are listed as follows:
 | Model name               |  GPU: Nvidia A100 80GB  |  batch size | epochs  |  
 | ------------------------ | ----------------------- | ----------- | ------- | 
 | selfccl-bert-base        |           4             |     512     |    4    |  
-| selfccl-sbert-base       |           4             |     200     |    4    |
-| sbert-nli-v2-contrastive |           1             |             |    3    |
+| selfccl-sbert-base       |           1             |     350     |    4    |
+| sbert-nli-v2-contrastive |           1             |     350     |    3    |
 
 
 ## Download datasets
